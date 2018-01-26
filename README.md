@@ -9,7 +9,7 @@ On command line, type in the following commands:
 # Description
 Part of the data is generated randomly
 
-#Menu
+# Menu
 
      Airline Manager  --  Main Menu
 
