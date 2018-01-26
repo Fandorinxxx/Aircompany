@@ -2,7 +2,8 @@
 GL Java Entry task
 
 # Launching
- bash start.sh
+
+     bash start.sh
 
 # Description
 Part of the data is generated randomly
