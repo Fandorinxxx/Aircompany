@@ -2,6 +2,7 @@
 GL Java Entry task
 
 # Launching
+On command line, type in the following commands:
 
      bash start.sh
 
